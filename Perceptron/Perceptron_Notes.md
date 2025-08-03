@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  # Perceptron – Notes
 1.What is a Perceptron?
 -It's the simplest unit of a neural network that acts as a linear classifier.
@@ -84,3 +85,5 @@ Points in blue and green → classified data
 
 
 
+
+>>>>>>> 05eb167dcb30f1c4bff49630175ab03364b9de55
